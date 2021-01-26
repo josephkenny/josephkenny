@@ -6,4 +6,4 @@
 <a href="https://linkedin.com/in/josephkenny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="josephkenny" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephkenny&show_icons=true&locale=en&layout=compact" alt="josephkenny" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josephkenny&show_icons=true&locale=en&layout=compact" alt="josephkenny" /></p>
